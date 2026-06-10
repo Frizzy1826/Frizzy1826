@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bhavesh 👋
 
-<!--
-**Frizzy1826/Frizzy1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student
 
-Here are some ideas to get you started:
+🔐 Interested in Cybersecurity, Linux, and Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- ISC2 Certified in Cybersecurity (CC)
+- PortSwigger Web Security Academy
+- Building security-focused projects and labs
+
+## 🛠️ Tools & Technologies
+- Linux (Ubuntu, Kali)
+- Python
+- Nmap
+- Burp Suite
+- Git & GitHub
+- Docker (Learning)
+
+## 📌 Featured Projects
+- DVWA Firewall Security Lab
+- Prompt Injection Detector (In Progress)
